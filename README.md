@@ -2,5 +2,7 @@
 
 This file is an SAP Analytics Application package file which can be imported into an SAP Analytics Cloud tenant.
 
+It was created in version 2023.23.2
+
 It relates to a blog which explains how the application works:
 https://blogs.sap.com/2023/11/13/sap-analytics-cloud-apis-that-manage-private-versions/
